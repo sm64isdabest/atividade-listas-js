@@ -1,6 +1,6 @@
-// Bom dia, boa tarde, boa noite professora! Só quis avisar que neste arquivo possuí atividades incompletas que eu ainda tenho que terminar,
-// porém o combinado de ter no mínimo 5 questões da lista 1, 2, 3 e 4 foram cumpridos.
-//
-// Obrigado por ter lido!
-//
-// Aliás, o arquivo HTML é um só, a senhora só tem que tirar do comentário para ver o código em ação.
+# Olá! ✨
+Esta é uma atividade que realizei enquanto iniciava as práticas de JavaScript durante meu período cursando dentro do SENAI, sinta-se avontade para dar uma olhada!
+
+- **OBSERVAÇÃO: Os únicos exércicios que eu não realizei foram os ex06.js e opc_ex08.js, ambos localizado dentro da pasta "lista 03", caso você queira fazer, faça e mande um pull request junto com os créditos lá no código, agradeço!**
+
+*Entre no meu perfil caso queira bisbilhotar mais repositórios bacanas*

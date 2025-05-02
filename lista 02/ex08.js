@@ -9,10 +9,10 @@
 let idade = parseInt(prompt("Digite a idade de um nadador: "))
 
 switch (idade) {
-    case 5,6,7 {
+    case 5,6,7: {
         document.querySelector('h1').innerHTML = "Infantil A"
         break;
-    } case 8,9,10,11 {
+    } case 8,9,10,11: {
         document.querySelector('h1').innerHTML = "Infantil A"
         break;
     }
